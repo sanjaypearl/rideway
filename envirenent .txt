@@ -1,0 +1,33 @@
+#this is   for the  fronted  
+
+VITE_BACKEND_HOST_URL=https://api.rideaway.in
+
+
+VITE_RAZORPAY_KEY_ID=rzp_test_zduXjxmS0NPzET
+VITE_RAZORPAY_KEY_SECRET=59hVdI0xvNkzkQdPTMAAc7qj
+
+
+
+
+#This   is for the  backend
+
+MONGO_URI=mongodb+srv://nayan:eVUUzkXbnqJezyQV@cluster0.ujzmxlu.mongodb.net/rideaway
+
+CLOUDINARY_CLOUD_NAME=dx7delwjf
+CLOUDINARY_API_KEY=744671226415813
+CLOUDINARY_API_SECRET=7Vm1v8Hq1QkcAz1sb4ccvS0z1J0
+
+
+JWT_SECRET=596943226617289
+RAZORPAY_SECRET= CIXM6okZbRqutgtLppYtXoqi
+RAZORPAY_KEY_ID= rzp_test_4NG8OpyyrqwI9F
+RAZORPAY_SECRET= CIXM6okZbRqutgtLppYtXoqi
+
+CLIENT_URL =https://rideaway.in
+
+EMAIL_USER=mohitananddos2020@gmail.com
+EMAIL_PASS=zkll ijnf lyqx ejza
+
+
+
+ 
